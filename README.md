@@ -1,3 +1,5 @@
+hey there 
+
 - 👋 Hi, I’m @maatheusgp
 - 👀 I’m interested in Python, JS, C++, HTML5, CSS, JS
 - 🌱 I’m currently learning Python
