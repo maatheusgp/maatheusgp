@@ -1,7 +1,7 @@
 hey there 
 
 - 👋 Hi, I’m @maatheusgp
-- 👀 I’m interested in Python, JS, C++, HTML5, CSS, JS
+- 👀 I’m interested in Python, JS, C++, HTML5, CSS
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everyone who wants to learn how to program 
 - 📫 How to reach me maatheusgp@gmail.com
